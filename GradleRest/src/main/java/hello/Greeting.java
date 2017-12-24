@@ -11,7 +11,7 @@ public class Greeting {
 	}
 
 	public long getId() {
-		return this.id;
+		return this.id + 100;
 	}
 
 	public String getContent() {
